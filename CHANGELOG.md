@@ -1,3 +1,12 @@
+## Version 0.2 (Milestone 2) - [2024-08-27]
+
+### Added
+
+- We added the second version of the whitepaper, including:
+  - The integration of programmable tokens with wallets. Recognizing programmable tokens both off-chain and on-chain, an idea on how to construct transactions featuring programmable tokens and other relevant recommendations.
+  - The integration of programmable tokens with existing and future dApps. Includes a thorough commentary on the new smart contract considerations and possibly new attack vectors that need to be thought-about.
+  - Template-based programmable tokens. An idea and a design that allows reusing programmable checks for multiple projects with the possibility of setting project-based parameters.
+
 ## Version 0.1 (Milestone 1) - [2024-06-12]
 
 ### Added
